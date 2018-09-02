@@ -1,8 +1,8 @@
 title: Java Software Engineer
 author: Tien Vinh Nguyen
 email: tien.workinfo@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  “The price of excellence is discipline. The cost of mediocrity is disappointment.” — William Arthur Ward
+description: # this means to ignore newlines until "baseurl:"
+  The price of excellence is discipline. The cost of mediocrity is disappointment. — William Arthur Ward
 
 # social links
 twitter_username: [TienWorkinfo](https://twitter.com/TienWorkinfo)
